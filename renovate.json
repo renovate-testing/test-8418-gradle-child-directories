@@ -1,3 +1,6 @@
 {
+  "gradle-lite": {
+    "enabled": true
+  },
   "enabledManagers": ["gradle-lite"]
 }
